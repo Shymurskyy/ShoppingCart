@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "/imgs/banana.jpg"
+  },
+  {
+    "id": 3,
+    "name": "HotDog",
+    "price": 8.75,
+    "imgUrl": "/imgs/HotDog.jpg"
+  }
+  ,
+  {
+    "id": 4,
+    "name": "Cofee",
+    "price": 9.95,
+    "imgUrl": "/imgs/coffe.jpg"
+  }
+  ,
+  {
+    "id": 5,
+    "name": "Beer",
+    "price": 5.95,
+    "imgUrl": "/imgs/beer.jpg"
+  }
+  ,
+  {
+    "id": 6,
+    "name": "Energy Drink",
+    "price": 5.95,
+    "imgUrl": "/imgs/energydrink.jpg"
+  }
+  ,
+  {
+    "id": 7,
+    "name": "Lays",
+    "price": 5.95,
+    "imgUrl": "/imgs/Lays.jpg"
+  }
+  ,
+  {
+    "id": 8,
+    "name": "Cupcakes",
+    "price": 5.95,
+    "imgUrl": "/imgs/Cupcakes.jpg"
+  }
+]
+
