@@ -1,2 +1,2 @@
 
-![Example screenshot](./image_slider.png)
+![Example screenshot](./image_.png)
